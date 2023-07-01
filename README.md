@@ -80,4 +80,7 @@
 
 ## Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JLL-Rudenko-Dmitriy&theme=javascript-dark&border_radius=5&card_width=496&background=44%2C000000%2CA9650AF5)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLL-Rudenko-Dmitriy)](https://github.com/JLL-Rudenko-Dmitriy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLL-Rudenko-Dmitriy&theme=great-gatsby)](https://github.com/JLL-Rudenko-Dmitriy/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuzyLagrange)](https://github.com/anuraghazra/github-readme-stats)
