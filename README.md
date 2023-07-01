@@ -27,3 +27,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FseHBzMnFqMmlsaDQ2ajB1Y2E2dGd2amJ3anM4czVlZThwMTBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gvxSarJqWaCqA3bgER/giphy.gif" width="512">
 </div>  
+
+* I am a Software Engineer.
+* Study in [ITMO](https://en.itmo.ru/en/page/42/Facts_&_Figures.htm) university
