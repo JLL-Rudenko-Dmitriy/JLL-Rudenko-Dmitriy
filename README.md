@@ -83,4 +83,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLL-Rudenko-Dmitriy&theme=great-gatsby)](https://github.com/JLL-Rudenko-Dmitriy/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuzyLagrange)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuzyLagrange&theme=great-gatsby)](https://github.com/JLL-Rudenko-Dmitriy/github-readme-stats)
