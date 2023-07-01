@@ -30,5 +30,7 @@
 
 ---
 
-:man_technologist: I am a Software Engineer
+:man_technologist: I am a Software Engineer 
 - Study in [ITMO](https://en.itmo.ru/en/page/42/Facts_&_Figures.htm) university
+- I like art and programming
+- In my free time I solve problems on the [CODEWARS](https://www.codewars.com/users/JLL.RudenkoDmitriy), [CODEFORCES](https://codeforces.com/profile/Ntpy_dpy),[LEETCODE](https://leetcode.com/Dmitri_Rudenko/) 
