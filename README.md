@@ -39,39 +39,42 @@
 ---
 
 
-## :open_file_folder:My toolbox
+## :white_square_button:My toolbox
 ### :page_with_curl:Langueges:
 <div>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" width="55px"/>
-  <img src="https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="75px"/>
-  <img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" width="132px"/>
-  <img src="https://img.shields.io/badge/python-gray?style=%22for-the-badge%22&logo=%22Python%22&logoColor=%22red%22" width="100px"/>
+  <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white&color=black" width="57px"/>
+  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=black" width="77px"/>
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white&color=black" width="133px"/>
+  <img src="https://img.shields.io/badge/python-black?style=%22for-the-badge%22&logo=%22Python%22&logoColor=%22white%22" width="100px"/>
 </div>
 
 
-### :books:Frameworks, Libraries and ORMs
+### :books:Frameworks, Libraries and ORMs:
 <div>
-  <img src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" width ="100px"/>
-  <img src="https://img.shields.io/badge/Django-%2300599C.svg?style=for-the-badge&logo=django&logoColor=white" width="98px"/>
+  <img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js&logoColor=white&color=black" width="100px"/>
+  <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white&color=black" width="100px"/>
 </div>
 
-###  :floppy_disk:Databases
+###  :floppy_disk:Databases:
 <div>
-  <img src="https://camo.githubusercontent.com/b310667470594171440f9b80f624787ea58555296d88af177788509b0d73a40b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465"/>
-</div>
+  <img src="https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white&color=black" width="100px"/>
 
 ###  :inbox_tray:Version Control:outbox_tray:
 <div>
-  <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
-</div>
+  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=black" width="71px"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=black" width="100px"/>
 
-### :wrench:IDEs/Editors and Instruments
+### :wrench:IDEs/Editors and Instruments:
 <div>
     <img src="https://img.shields.io/badge/VsCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" width="100px"/>
     <img src="https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=white&color=black" width="90px"/>
     <img src="https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion&logoColor=white&color=black" width="90px"/>
     <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white&color=black" width="100px"/>
-    <img src="https://img.shields.io/badge/Folder-black?style=for-the-badge&color=black" width="100px"/>
-  
+
+### :electric_plug:OS:
+  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white&color=black" width="117px"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=ubuntu&logoColor=white&color=black" width="90px"/>
 </div>
+
+--- 
+
