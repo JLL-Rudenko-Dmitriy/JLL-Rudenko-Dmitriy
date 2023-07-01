@@ -65,3 +65,13 @@
   <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
 </div>
+
+### :wrench:IDEs/Editors and Instruments
+<div>
+    <img src="https://img.shields.io/badge/VsCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" width="100px"/>
+    <img src="https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=white&color=black" width="90px"/>
+    <img src="https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion&logoColor=white&color=black" width="90px"/>
+    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white&color=black" width="100px"/>
+    <img src="https://img.shields.io/badge/Folder-black?style=for-the-badge&color=black" width="100px"/>
+  
+</div>
