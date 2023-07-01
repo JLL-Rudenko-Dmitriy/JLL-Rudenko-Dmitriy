@@ -39,7 +39,7 @@
 ---
 
 
-## :white_square_button:My toolbox
+## My toolbox
 ### :page_with_curl:Langueges:
 <div>
   <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white&color=black" width="57px"/>
@@ -78,3 +78,6 @@
 
 --- 
 
+## Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JLL-Rudenko-Dmitriy&theme=javascript-dark&border_radius=5&card_width=496&background=44%2C000000%2CA9650AF5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLL-Rudenko-Dmitriy)](https://github.com/JLL-Rudenko-Dmitriy/github-readme-stats)
