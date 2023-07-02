@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=black" width="77px"/>
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white&color=black" width="133px"/>
   <img src="https://img.shields.io/badge/python-black?style=%22for-the-badge%22&logo=%22Python%22&logoColor=%22white%22" width="100px"/>
+  <img src="https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex&logoColor=white" width="86"/>
 </div>
 
 
