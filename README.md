@@ -82,9 +82,9 @@
 --- 
 
 ## Stats:
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rarenatsu&theme=javascript-dark&border_radius=5&card_width=496&background=44%2C000000%2CA9650AF5)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JLL-Rudenko-Dmitriy&theme=javascript-dark&border_radius=5&card_width=496&background=44%2C000000%2CA9650AF5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarenatsu&theme=great-gatsby)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLL-Rudenko-Dmitriy&theme=great-gatsby)]
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rarenatsu&theme=great-gatsby" />
 
