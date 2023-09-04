@@ -86,7 +86,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarenatsu&theme=great-gatsby)]
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuzyLagrange&theme=great-gatsby" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rarenatsu&theme=great-gatsby" />
 
 ---
 
