@@ -92,4 +92,4 @@
 
 ## CodeWars:
 
-<img src = "https://www.codewars.com/users/JLL.RudenkoDmitriy/badges/large">
+<img src = "https://www.codewars.com/users/JLL-Rudenko-Dmitriy/badges/large">
