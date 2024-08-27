@@ -54,8 +54,6 @@
 
 ### :books:Frameworks, Libraries and ORMs:
 <div>
-  <img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js&logoColor=white&color=black" width="100px"/>
-  <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white&color=black" width="100px"/>
 </div>
 
 ###  :floppy_disk:Databases:
